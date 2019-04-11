@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id ="com.phonegap.app3"
+id ="com.phonegap.app4"
 version = "1.0.0">
 
-<name>app3-Dia Internacional de la madre Tierra</name>
+<name>app4-Dia Internacional de la madre Tierra</name>
 
 <description>
 Aplicación que nos informa sobre el dia mundial de la Mdre Tierra
