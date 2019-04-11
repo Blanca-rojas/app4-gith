@@ -36,6 +36,6 @@ Blanca Lidia Arias Rojas
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!-- Colocar icono app -->
-<icon src="res/android/health-icon.png"/>
+<icon src="imagenes/mdpi.png"/>
 
 </widget>
